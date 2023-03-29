@@ -1,2 +1,2 @@
-# AgriPV Oregon Study
- Study of AgriPhotovoltaics in Oregon Location
+# AgriPV Florida Study
+ Study of AgriPhotovoltaics in a Florida Location
